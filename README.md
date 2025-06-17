@@ -1,5 +1,9 @@
 # AI & Data Science Learning Platform
 
+**Course:** CT-365 Software Engineering
+**Department:** Computer Science & Information Technology, NED University  
+**Student:** Afifa Siddique  
+
 This project is a **specialized learning platform** built to provide an engaging, adaptive, and accessible education experience in **Artificial Intelligence** and **Data Science**. It is designed for students and professionals looking to begin or advance their journey in these fields through personalized content, interactive modules, and powerful analytics.
 
 ---
